@@ -1,0 +1,14 @@
+layout_spectrum: 0.07282548886723816
+typography_spectrum: 0.8869539166335016
+color:
+  brandStrength: 0.6858245830517262
+  lightness: 0.6062531541101635
+  saturation: 0.8211622934322804
+  rhythmicContrast: 0.5325330118648708
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Inwardly
